@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "This is AWS Cloud yooyrorj" );
+        System.out.println( "Checking AWS CODEBUILD" );
     }
 }
